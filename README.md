@@ -4,7 +4,7 @@ A project built for learning purposes, utilizing Zustand for state management an
 
 ## Live Demo
 
-Check out the live demo [here](https://your-live-demo-link.com).
+Check out the live demo [here](https://learn-zustand-seven.vercel.app/).
 
 ## Live Images For Laptop
 
