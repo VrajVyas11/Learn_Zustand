@@ -8,15 +8,17 @@ Check out the live demo [here](https://your-live-demo-link.com).
 
 ## Live Images For Laptop
 
-![Laptop View](./demoimages/1.png)
+![Laptop View](./demoImages/1.png)
 
-![Laptop View](./demoimages/2.png)
+![Laptop View](./demoImages/2.png)
 
-![Laptop View](./demoimages/3.png)
+![Laptop View](./demoImages/3.png)
 
-![Laptop View](./demoimages/4.png)
+![Laptop View](./demoImages/4.png)
 
-![Laptop View](./demoimages/5.png)
+![Laptop View](./demoImages/5.png)
+
+![Laptop View](./demoImages/6.png)
 
 ## Getting Started
 
